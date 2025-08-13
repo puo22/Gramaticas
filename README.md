@@ -1,5 +1,3 @@
----
-
 # **Implementación en Python**
 
 ## Librerías necesarias
