@@ -1,5 +1,3 @@
-Perfecto, te dejo **todo el paso a paso** para implementar y ejecutar **en Python** y **en C con Flex/Bison** en Linux, incluyendo librerías y comandos.
-
 ---
 
 # **Implementación en Python**
